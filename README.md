@@ -18,7 +18,7 @@ Hello there! I'm Shreyas Mishra
 👨‍💻 I enjoy Sports Programming and Problem Solving 👨‍💻
 <br>
 <br>
-📪 Connect with me at <a href = "https://www.linkedin.com/in/shreyas-mishra-686aa3197/"><img src="https://img.shields.io/badge/-Nikhil%20Kumar%20Jha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> or mail me at <a href = "mailto:shreyas-mishra-686aa3197@gmail.com"><img src="https://img.shields.io/badge/-shreyas-mishra-686aa3197@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>. 📭
+📪 Connect with me at <a href = "https://www.linkedin.com/in/shreyas-mishra-686aa3197/"><img src="https://img.shields.io/badge/-Shreyas%20Mishra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> or mail me at <a href = "mailto:shreyas-mishra-686aa3197@gmail.com"><img src="https://img.shields.io/badge/-shreyas-mishra-686aa3197@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>. 📭
 
 
 </p>
